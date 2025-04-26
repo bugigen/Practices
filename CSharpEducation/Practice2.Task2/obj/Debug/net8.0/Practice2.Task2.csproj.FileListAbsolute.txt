@@ -1,0 +1,14 @@
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.AssemblyInfoInputs.cache
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.AssemblyInfo.cs
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.csproj.CoreCompileInputs.cache
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.exe
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.deps.json
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.runtimeconfig.json
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.dll
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\bin\Debug\net8.0\Practice2.Task2.pdb
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.dll
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\obj\Debug\net8.0\refint\Practice2.Task2.dll
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.pdb
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\obj\Debug\net8.0\Practice2.Task2.genruntimeconfig.cache
+C:\Users\Студент213-1\Documents\work\CSharpEducation\Practice2.Task2\obj\Debug\net8.0\ref\Practice2.Task2.dll
